@@ -5,15 +5,15 @@ iOS-Rumtime通篇详解实例代码
  > 
  * demo-runtime-part0 ----------> class_get 
  * demo-runtime-part1 ----------> class_copy
- * demo-runtime-part2 ----------> class_get
- * demo-runtime-part3 ----------> class_get
- * demo-runtime-part4 ----------> class_get
- * demo-runtime-part5 ----------> class_get
- * demo-runtime-part6 ----------> class_get
- * demo-runtime-part7 ----------> class_get
- * demo-runtime-part8 ----------> class_get
- * demo-runtime-part9 ----------> class_get
- * demo-runtime-part10 ----------> class_get
+ * demo-runtime-part2 ----------> class_add
+ * demo-runtime-part3 ----------> class_rereplace&class-response&class-conforms&class-is
+ * demo-runtime-part4 ----------> ivar_get
+ * demo-runtime-part5 ----------> property_get
+ * demo-runtime-part6 ----------> method_get
+ * demo-runtime-part7 ----------> method-copy&method-set&method-exchange
+ * demo-runtime-part8 ----------> objc
+ * demo-runtime-part9 ----------> sel
+ * demo-runtime-part10 ----------> object
  
  
 
